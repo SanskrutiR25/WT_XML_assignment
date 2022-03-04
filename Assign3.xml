@@ -1,0 +1,58 @@
+<?xml version = "1.0"?> 
+<?xml-stylesheet type = "text/xsl" href = "Assign3.xsl"?> 
+<class>   
+   <employee id = "001">  
+      <firstname>Yash</firstname>   
+      <lastname>Raskar</lastname>   
+      <age>27</age>   
+      <salary>40000</salary>  
+      <phoneno>987539216</phoneno>
+      <bloodgrp>O+ve</bloodgrp>
+   </employee> 
+
+   <employee id = "002">   
+      <firstname>Atharva</firstname>   
+      <lastname>Maliye</lastname>   
+      <age>30</age>   
+      <salary>34900</salary>  
+      <phoneno>987123416</phoneno>
+      <bloodgrp>A+ve</bloodgrp>
+   </employee> 
+
+   <employee id = "003">   
+      <firstname>Sanskar</firstname>   
+      <lastname>Charde</lastname>   
+      <age>28</age>  
+      <salary>32000</salary> 
+      <phoneno>987539216</phoneno>
+      <bloodgrp>A-ve</bloodgrp>  
+   </employee> 
+
+    <employee id = "004">   
+      <firstname>Tanishq</firstname>   
+      <lastname>Waghmare</lastname>   
+      <age>29</age>  
+      <salary>30000</salary> 
+      <phoneno>989939216</phoneno>
+      <bloodgrp>A+ve</bloodgrp>  
+   </employee>
+
+   <employee id = "005">   
+      <firstname>Prachiti</firstname>   
+      <lastname>Patil</lastname>   
+      <age>31</age>  
+      <salary>28000</salary>  
+      <phoneno>677539216</phoneno>
+      <bloodgrp>B+ve</bloodgrp> 
+   </employee>
+
+   <employee id = "006">   
+      <firstname>Kshitij</firstname>   
+      <lastname>Kardile</lastname>   
+      <age>29</age>  
+      <salary>31000</salary> 
+      <phoneno>987569216</phoneno>
+      <bloodgrp>O-ve</bloodgrp>  
+   </employee>
+   
+</class>  
